@@ -48,3 +48,11 @@ null + 1         // natija 1 (number) chiqadi sababi null 0 ga teng
 undefined + 1    // natija NaN chiqadi sababi undefined xech qanday raqamga teng emas va u raqamlarga umuman aloqasi yo'q (undefined faqat == bilan null ga taqqoslaganda teng va boshqa xech narsaga teng emas)
 
 " \t \n " - 2    // natija -2 (number) chiqadi sababi (-
+
+
+
+
+
+
+
+
