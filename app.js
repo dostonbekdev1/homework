@@ -1,4 +1,5 @@
-function hello(){
-     let ask = prompt("how old are you ? , ")
+const toBinary = (num) => {
+     return num.toString(16)
 }
-hello()
+
+console.log(toBinary(3));
