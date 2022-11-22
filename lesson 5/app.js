@@ -18,8 +18,6 @@
 // let str;
 // str = "Hello World!";
 
-
-
 // function getAge(age) { return  age >= 18  ||  console.log(false)}  console.log(getAge(18));
 
 
