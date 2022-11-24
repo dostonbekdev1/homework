@@ -1,9 +1,9 @@
 // Exercise 1
 
 // const user = {};
-// user.name = "Dostonbek";
-// user.surname = "Abdusattarov";
-// user.name = "Bob";
+// user.name = "Jone";
+// user.surname = "Smith";
+// user.name = "Pete";
 // delete user.name;
 
 // console.log(user);
@@ -21,7 +21,7 @@
 
 // console.log(isEmpty(schedule));
 
-// schedule["5:00"] = "get up";
+// schedule["8:30"] = "get up";
 
 // console.log(isEmpty(schedule));
 
@@ -52,15 +52,12 @@
 // };
 
 // let box = {
-//   width: 100,
-//   height: 200,
+//   width: 200,
+//   height: 300,
 //   title: "box",
 // };
 
 // multiply(box);
-
-// console.log(box);
-
 
 
 // extra task 1
